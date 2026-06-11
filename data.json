@@ -14,24 +14,24 @@
             "photo_path": "assets/reviewer_0.jpg"
         },
         {
-            "name": "Sarah Wagner",
-            "text": "Sehr nette Beratung und kompetente Ausführung. Die Abstimmung lief hervorragend. Gerne wieder!",
-            "rating": 5,
-            "date": "Vor 4 Wochen",
-            "photo_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=100&h=100",
-            "photo_path": "assets/reviewer_1.jpg"
-        },
-        {
             "name": "Thomas K.",
             "text": "Klasse Arbeit bei der Schieferverkleidung unserer Gaube. Alles wurde wie vereinbart ausgeführt. Top Preis-Leistungs-Verhältnis.",
             "rating": 5,
             "date": "Vor 3 Monaten",
             "photo_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=100&h=100",
             "photo_path": "assets/reviewer_2.jpg"
+        },
+        {
+            "name": "Andreas Weber",
+            "text": "Sehr professionelle Arbeit. Pünktlich und sauber. Wir sind sehr zufrieden mit dem neuen Steildach.",
+            "rating": 5,
+            "date": "Vor 1 Monat",
+            "photo_url": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=100&h=100",
+            "photo_path": "assets/reviewer_3.jpg"
         }
     ],
     "images": [
-        "https://images.unsplash.com/photo-1628744448840-55bef34d2bc0?auto=format&fit=crop&q=80&w=600",
+        "assets/google_profile_photo_0.jpg",
         "https://images.unsplash.com/photo-1632935187088-50a3e86b1274?auto=format&fit=crop&q=80&w=600",
         "assets/project_fallback_2.jpg",
         "assets/project_fallback_3.jpg"
